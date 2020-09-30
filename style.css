@@ -2,5 +2,15 @@ html {
   background-color: rgb(218, 167, 167);
 }
 h1 {
-color: rgb(120, 35, 190);
+text-align: center
+}
+h1 {
+  color: rgb(120, 35, 190);
+  border: 2px dotted black
+}
+p {
+  font-variant: small-caps;
+}
+p {  
+  font-style: italic;
 }
