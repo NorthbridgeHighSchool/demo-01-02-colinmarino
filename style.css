@@ -6,11 +6,14 @@ text-align: center
 }
 h1 {
   color: rgb(120, 35, 190);
-  border: 2px dotted black
+  border: 4px double black
 }
 p {
   font-variant: small-caps;
 }
 p {  
   font-style: italic;
+}
+p {
+  font-weight: bold;
 }
